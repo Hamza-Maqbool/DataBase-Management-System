@@ -1,0 +1,92 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Lab 04 Tasks}
+\author{Muhammad Hamza 
+         2021-CS-178}
+\date{9 February 2023}
+
+\begin{document}
+
+\maketitle
+
+\begin{enumerate}
+\item List name of all the products whose price is above average:
+\begin{verbatim}
+SELECT Products.ProductName
+From Products
+where
+Products.UnitPrice > (Select AVG(Products.UnitPrice) from Products);
+\end{verbatim}
+
+\item Write a query to generate report showing date wise orders shipped:
+\begin{verbatim}
+SELECT 
+  OrderDate, 
+  COUNT(OrderID) AS Number_of_Orders_Shipped
+FROM Orders
+GROUP BY OrderDate
+\end{verbatim}
+
+\item List name of all countries from where two or more suppliers belong to:
+\begin{verbatim}
+Select Country from Suppliers
+Group BY Country
+Having count(*) >=2;
+\end{verbatim}
+
+\item Write a query to generate report showing month wise orders delayed shipped:
+\begin{verbatim}
+Select MONTH(ShippedDate) 
+AS Month,
+DateDiff(day,RequiredDate,ShippedDate) AS OrderDelayed 
+FROM Orders 
+Where RequiredDate < ShippedDate;
+\end{verbatim}
+
+\item Report all the orders which have been discounted:
+\begin{verbatim}
+Select OrderID , Discount From
+[Order Details]
+where Discount > 0;
+\end{verbatim}
+
+\item Write a query to list the number of orders which were shipped in the cities of USA in 1997:
+\begin{verbatim}
+Select ShipCountry
+AS Country, Count(DateDiff(day,RequiredDate,
+ShippedDate)) AS OrderDelayed 
+FROM Orders
+Where RequiredDate < ShippedDate
+GROUP BY ShipCountry;
+\end{verbatim}
+
+\item Write a query to generate report showing country wise orders delayed shipped:
+\begin{verbatim}
+SELECT 
+  ShipCountry, 
+  COUNT(OrderID) AS Number_of_Orders_Delayed
+FROM Orders
+WHERE ShippedDate > RequiredDate
+GROUP BY ShipCountry
+\end{verbatim}
+
+\item Report all the orders which have been discounted with total price of order:
+\begin{verbatim}
+Select OrderID,UnitPrice,Discount From [Order Details]
+Where Discount > 0;
+\end{verbatim}
+
+\item Write a query to list the number of orders which were shipped in the cities of each region in 1997:
+\begin{verbatim}
+SELECT 
+  Region, 
+  ShipCity, 
+  COUNT(OrderID) AS Number_of_Orders
+FROM Orders
+WHERE YEAR(ShippedDate) = 1997
+GROUP BY Region, ShipCity
+\end{verbatim}
+\end{enumerate}
+
+\end{document}

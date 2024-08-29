@@ -1,0 +1,48 @@
+Q1.
+Select Asp.Email, sc.CourseTitle	From SpikoStudent as s 
+Join SpikoStudentSection as ss	On s.StudentId = ss.StudentId	Join 
+SpikoSection as sps	ON sps.Id = ss.SectionId	Join SpikoCourse as sc	ON sps.CourseId = sc.CourseId Join 
+AspNetUsers as asp ON asp.Id = s.UserId	Left Outer Join 
+SpikoAssignmentSubmission as sAssign ON sAssign.StudentId = s.StudentId AND sAssign.SubmittedOn=null
+Group by sc.CourseTitle , Asp.Email
+***
+
+
+Q2.
+Select sc.Session + sc.Year as SemesterName From SpikoCourse as sc Join 
+SpikoSection as ss ON sc.CourseId = ss.CourseId Join 
+SpikoStudentSection as sStu ON sStu.SectionId = ss.Id Group by sc.Session , sc.Year, sStu.EnrolledOn Order by sStu.EnrolledOn 
+***
+
+
+Q3.
+Select Distinct(sc.CourseTitle) From SpikoSection as ss Join 
+SpikoCourse as sc ON ss.CourseId = sc.CourseId Left Outer Join 
+SpikoStudentSection as sss ON sss.SectionId = ss.Id AND ss.CourseId = NULL;
+***
+
+
+Q4.
+Select ss.FullName as StudentName , Sum(sse.ObtainedMarks) as TotalMarks  From SpikoStudent as ss Join 
+SpikoStudentEvaluation sse On ss.StudentId = sse.StudentId Join 
+SpikoEvaluation as se On se.Id = sse.EvaluationId Where se.CourseId =1015 Group by ss.FullName;
+***
+
+
+Q5.
+Select sc.CourseTitle From SpikoAnnouncement as sa Join 
+SpikoCourse as sc On sa.CourseID = sc.CourseId Group by sc.CourseTitle having Count(sc.CourseTitle) > 5;
+***
+
+
+Q6.
+select SC.CourseTitle from SpikoCourse as SC Join
+SpikoSection as SS on SC.CourseId = SS.CourseId Join
+SpikoStudentSection as SSS on SSS.StudentId = SS.Id where SSS.EnrollmentId>50;
+***
+
+
+Q8.
+Select CoureTitle from SpikoAssignment as SA Join
+SpikoAssignmentSubmission as SAS on SA.Id = SAS.AssignmentId TIMEDIFF()
+Join SpikoSection AS SS on SS.Id = SA.ID join SpikoCourse as SC 

@@ -1,0 +1,26 @@
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.csproj.AssemblyReference.cache
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form1.resources
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form2.resources
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form3.resources
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Properties.Resources.resources
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.csproj.GenerateResource.cache
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.csproj.CoreCompileInputs.cache
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\bin\Debug\BD lab 1.exe.config
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\bin\Debug\BD lab 1.exe
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\bin\Debug\BD lab 1.pdb
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.exe
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.pdb
+G:\work imp\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form4.resources
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\bin\Debug\BD lab 1.exe.config
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\bin\Debug\BD lab 1.exe
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\bin\Debug\BD lab 1.pdb
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.csproj.AssemblyReference.cache
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form1.resources
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form2.resources
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form3.resources
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Form4.resources
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD_lab_1.Properties.Resources.resources
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.csproj.GenerateResource.cache
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.csproj.CoreCompileInputs.cache
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.exe
+D:\University Work\Semester 4\DBMS LAB\BD lab 1\BD lab 1\obj\Debug\BD lab 1.pdb

@@ -1,0 +1,16 @@
+Select ShipCity, count(ShipDate) countofShipDate, count(select shippedDate from orders where ShippedDate is null)ShipPendingOrders
+From Orders(select ShipDate form orders)  group by shipCity
+
+
+Select ShipCity as City
+From Orders (Select ShipCity as city count(ShipCity) numberofcity
+from orders group by shipcity as total
+group by shipcity 
+having count(shipcity = max(total.numberofcity)));
+
+
+Select* from Customers cus
+Join orders o
+on cat.customerid = cus.customerid
+join[orderDetail] ord
+on o.productId = ord

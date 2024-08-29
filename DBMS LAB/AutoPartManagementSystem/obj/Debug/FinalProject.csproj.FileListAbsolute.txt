@@ -1,0 +1,52 @@
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\bin\Debug\FinalProject.exe.config
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\bin\Debug\FinalProject.exe
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\bin\Debug\FinalProject.pdb
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.CustomerMainPage.resources
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.exe
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.pdb
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\bin\Debug\Guna.UI2.dll
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.Customer.veiwspareparts.resources
+D:\University Work\Semester 4\DBMS LAB\Final Project\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\bin\Debug\FinalProject.exe.config
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\bin\Debug\FinalProject.exe
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\bin\Debug\FinalProject.pdb
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\bin\Debug\Guna.UI2.dll
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.CustomerMainPage.resources
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.Customer.veiwspareparts.resources
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.exe
+C:\Users\Haider Ali\Documents\GitHub\db2021finalprojectg-45\obj\Debug\FinalProject.pdb
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\bin\Debug\FinalProject.exe.config
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\bin\Debug\FinalProject.exe
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\bin\Debug\FinalProject.pdb
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\bin\Debug\Guna.UI2.dll
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.CustomerMainPage.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Customer.veiwspareparts.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.exe
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.pdb
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Customer.ViewSpareparts.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Customer.Purchase.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Customer.Cart.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Customer.Payment.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Admin.AdminForm.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Admin.SpareParts.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Admin.Employee.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Admin.WareHouse.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Admin.Sales.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Admin.Company.resources
+C:\Users\Haider Ali\Documents\DAta\code & work\semester 4\Final Project\Project\db2021finalprojectg-45\obj\Debug\FinalProject.Admin.Category.resources

@@ -1,0 +1,20 @@
+SELECT 
+    city,
+    SUM(CASE WHEN status = 'pending' THEN 1 ELSE 0 END) AS countofpendingorders,
+    SUM(CASE WHEN status = 'shipped' THEN 1 ELSE 0 END) AS countofshippedorders
+FROM orders
+GROUP BY city;
+
+
+Select ShipCity as City
+From Orders (Select ShipCity as city count(ShipCity) numberofcity
+from orders group by shipcity as total
+group by shipcity 
+having count(shipcity = max(total.numberofcity)));
+
+
+Select* from Customers cus
+Join orders o
+on cat.customerid = cus.customerid
+join[orderDetail] ord
+on o.productId = ord
